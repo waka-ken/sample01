@@ -6,11 +6,15 @@ body{
     margin: 0;
     background-color: #eaedf2;
     color: #252525;
-    font-family: "Helvetica","Arial","BIZ UDGothic","Hiragino Kaku Gothic ProN","Hiragino Sans",YuGothic,"Yu Gothic","メイリオ",Meiryo,sans-serif;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
 }
 *,*::before,*::after{
     box-sizing: border-box;
 }
 .border-radius{
     border-radius: 50%;
+}
+.profile-image{
+    width: 250px;
+    height: 300px;
 }

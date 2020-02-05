@@ -2,6 +2,8 @@
 h1,h2,h3,h4,h5,p{
   margin: 0;
   padding: 0em;
+  font-family: "Helvetica Neue", Helvetica, Arial, "游ゴシック体", "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+  line-height: 1.5;
 }
 header,section{
   margin: 0;
